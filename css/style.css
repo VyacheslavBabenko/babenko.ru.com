@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+#heading{
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.divider{
+	background-image: url('../img/divider-pattern.png');
+	background-repeat: repeat-x;;
+	height: 4px;
+	width: 100%;
+}
+
+.navbar-brand {
+ 	width: 150px;
+}
+
+.navbar {
+	background-color: black;
+}
+ 
+
+
+.our_work p {
+	text-align: center;
+	font-size: 18px;
+}
+
+
+.our_images img {
+	height: 300px;
+	width: 400px;
+	/* margin: 10px; */
+	/* padding-left: 10px; */
+}
+
